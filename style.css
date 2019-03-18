@@ -1,0 +1,19 @@
+/*
+Theme Name: wpcarepify child theme
+Theme URI: http://carepify.com/wpcarepify-framework
+Author: Carepify Team
+Author URI: http://carepify.com
+GitHub Theme URI: https://github.com/hlaporthein/child-wpcarepify
+Description: child wpcarepify theme is developed by carepify team. You could also read documentation in http://github.com/hlaporthein/wpcarepify/wiki/ 
+Requires at least: WordPress 4.9.6
+Version: 1.0
+Template: wpcarepify
+License: GNU General Public License v2 or later
+License URI: LICENSE
+Text Domain: child-wpcarepify
+Tags: simple, npm
+*/
+.title{background:#ff0}.title a{background:green}
+.container{max-width:1170px}.something{width:200px;height:300px}
+
+h2{background:#ddd}body{background:#222}
